@@ -1,0 +1,5 @@
+tqdm
+jupyter
+numpy
+pandas
+matplotlib
